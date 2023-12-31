@@ -6,4 +6,4 @@ O objetivo deste projeto é criar um mecanismo que automatize a batida de ponto,
 
 - pip install selenium
 - [Download Chromedriver](https://chromedriver.chromium.org/downloads)
-    - Adicionar na pasta raiz do projeto, deve ser compatível com a versão do *Google Chrome*
+    - Adicionar na pasta raiz do projeto, deve ser compatível com a versão do **Google Chrome**
